@@ -1,0 +1,17 @@
+.characters {
+  padding: 32px 0;
+
+  h1 {
+    text-align: center;
+    font-weight: bold;
+  }
+
+  &__pagination {
+    margin-top: 32px;
+    text-align: center;
+  }
+
+  .loading {
+    margin: 40px auto;
+  }
+}
